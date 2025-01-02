@@ -95,7 +95,7 @@ const App = () => {
         <div>
           <button
             className="m-2 text-2xl w-16 h-14 rounded shadow-md"
-            onClick={() => setInput((prev) => prev + "-")}
+            onClick={() => setInput((prev) => prev + "1")}
           >
             1
           </button>
